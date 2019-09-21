@@ -1,0 +1,26 @@
+﻿Library,Part,Footprint,Value,Number,Reference,調達先（例）
+Connector,AudioJack2_Ground,myparts:Jack ST-005-G,AudioJack2_Ground,1,J6,http://akizukidenshi.com/catalog/g/gC-02460/
+Connector,Conn_01x05_Female,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,MicroUSB_DIP,1,J5,https://www.amazon.co.jp/dp/B0183KF7TM/ref=cm_sw_em_r_mt_dp_U_rBJHDbKRYNB0A
+Connector,Conn_01x05_Female,Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical,Pin_UARAT_IO26,1,J3,-
+Connector,DB15_Female_HighDensity,Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm,Dsub15_Female,1,J2,https://ja.aliexpress.com/item/32878535872.html?spm=a2g0s.9042311.0.0.4e0d4c4dXb4pk2
+Connector,Micro_SD_Card,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical,Micro_SD_Card,1,J4,http://akizukidenshi.com/catalog/g/gK-05488/
+Connector,Mini-DIN-6,myparts:mini_DIN_6p_useconn,Mini-DIN-6,1,PS2,http://akizukidenshi.com/catalog/g/gC-09385/
+Device,C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,0.1uF,2,"C7, C1",千石電商等で
+Device,C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,100nF,1,C10,千石電商等で
+Device,C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,10nF,3,"C2, C3, C9",千石電商等で
+Device,C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,10uF,3,"C8, C5, C4",千石電商等で
+Device,C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,1uF,1,1uF1,千石電商等で
+Device,C,Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder,22uF,1,C6,千石電商等で
+Device,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,LED,3,"D2, D3, D4",http://akizukidenshi.com/catalog/g/gI-03978/
+Device,R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,100,1,R14,千石電商等で
+Device,R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,10K,15,"R29, R22, R20, R13, R15, R18, R12, R23, R24, R28, R8, R21, R1, R19, R9",千石電商等で
+Device,R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1K,2,"R17, R16",千石電商等で
+Device,R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,240,1,R11,千石電商等で
+Device,R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,420,9,"R3, R5, R4, R6, R25, R26, R27, R2, R7",千石電商等で
+Device,R,Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder,470,1,R10,千石電商等で
+Interface_USB,FT231XS,Package_SO:SSOP-20_3.9x8.7mm_P0.635mm_handsolder,FT231XS,1,U2,http://akizukidenshi.com/catalog/g/gI-06713/
+Regulator_Linear,AP7361C-33E,Package_TO_SOT_SMD:SOT-223-3_TabPin2,AP7361C-33E,1,U4,DigiKey等で
+Switch,SW_Push,Button_Switch_THT:SW_PUSH_6mm,SW_Push,4,"IO35, IO34, Boot1, Reset1",http://akizukidenshi.com/catalog/g/gP-03649/
+Transistor_FET,BSS138,Package_TO_SOT_SMD:SOT-23,BSS138,4,"Q3, Q1, Q4, Q2",http://akizukidenshi.com/catalog/g/gI-04232/
+mysymbol,ESP32-WROVER-B_breakout,myparts:ESP32-WROVER-B_breakout,ESP32-WROVER-B_breakout,1,UB1,-
+mysymbol,TPS2065,myparts:TPS2065_MSOP-8_3x3mm_P0.65mm,TPS2065,1,U3,DigiKey等で
