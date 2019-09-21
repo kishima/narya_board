@@ -1,5 +1,5 @@
 # Narya board
-Narya board for Family mruby
+Narya board for [Family mruby](https://github.com/kishima/family_mruby).
 
 Latest release is development board v1.2 and ESP32_WROVER_B_Breakout v1.0.
 
