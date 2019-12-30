@@ -10,6 +10,10 @@ Latest release is v2.0 and ESP32_WROVER_B_Breakout v1.0.
 
 <img src="https://github.com/kishima/narya_board/blob/master/official_release/v2.0/image/Narya2.0.jpg" width=500>
 
+CAD data of the case is also released.
+
+<img src="https://github.com/kishima/narya_board/blob/master/official_release/v2.0/image/Narya_with_case.jpg" width=500>
+
 ---
 
 ## Narya board v1.2
