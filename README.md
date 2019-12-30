@@ -8,7 +8,7 @@ Latest release is v2.0 and ESP32_WROVER_B_Breakout v1.0.
 
 ## Narya board v2.0
 
-<img src="https://github.com/kishima/narya_board/blob/master/release/v2.0/image/Narya2.0.jpg" width=500>
+<img src="https://github.com/kishima/narya_board/blob/master/oficial_release/v2.0/image/Narya2.0.jpg" width=500>
 
 ---
 
